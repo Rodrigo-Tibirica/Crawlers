@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fOry/xucG8Yj5Q0s5aMAjVWMk8QCMjG+o1Rgd4XGkQrreaRSBSLF2CWyhuzv5Z22SlTqlzEUH1MXKu5rZfcvUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodri\\source\\repos\\MSDNDemo\\MSDNDemo\\MSDNDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\htmlagilitypack\\1.11.39\\htmlagilitypack.1.11.39.nupkg.sha512"
+  ],
+  "logs": []
+}

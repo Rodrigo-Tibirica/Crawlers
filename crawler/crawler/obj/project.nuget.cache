@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cEgNqj+ZtfwzKtVMr1QF9jBjkQkXZOD2o3SZ9CUAWxhGSM+Z3OMPavFhaeErE4WNwmd9BvDxYqVFZfFG4HMSQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodri\\source\\repos\\crawler\\crawler\\crawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\fluentscheduler\\5.5.1\\fluentscheduler.5.5.1.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\htmlagilitypack\\1.11.39\\htmlagilitypack.1.11.39.nupkg.sha512"
+  ],
+  "logs": []
+}

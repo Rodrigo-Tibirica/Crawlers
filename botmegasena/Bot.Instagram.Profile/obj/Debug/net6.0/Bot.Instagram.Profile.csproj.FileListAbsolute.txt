@@ -1,0 +1,17 @@
+C:\Users\rodri\source\repos\botmegasena\Bot.Instagram.Profile\bin\Debug\net6.0\Bot.Instagram.Profile.exe
+C:\Users\rodri\source\repos\botmegasena\Bot.Instagram.Profile\bin\Debug\net6.0\Bot.Instagram.Profile.deps.json
+C:\Users\rodri\source\repos\botmegasena\Bot.Instagram.Profile\bin\Debug\net6.0\Bot.Instagram.Profile.runtimeconfig.json
+C:\Users\rodri\source\repos\botmegasena\Bot.Instagram.Profile\bin\Debug\net6.0\Bot.Instagram.Profile.dll
+C:\Users\rodri\source\repos\botmegasena\Bot.Instagram.Profile\bin\Debug\net6.0\ref\Bot.Instagram.Profile.dll
+C:\Users\rodri\source\repos\botmegasena\Bot.Instagram.Profile\bin\Debug\net6.0\Bot.Instagram.Profile.pdb
+C:\Users\rodri\source\repos\botmegasena\Bot.Instagram.Profile\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\rodri\source\repos\botmegasena\Bot.Instagram.Profile\obj\Debug\net6.0\Bot.Instagram.Profile.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\botmegasena\Bot.Instagram.Profile\obj\Debug\net6.0\Bot.Instagram.Profile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\botmegasena\Bot.Instagram.Profile\obj\Debug\net6.0\Bot.Instagram.Profile.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\botmegasena\Bot.Instagram.Profile\obj\Debug\net6.0\Bot.Instagram.Profile.AssemblyInfo.cs
+C:\Users\rodri\source\repos\botmegasena\Bot.Instagram.Profile\obj\Debug\net6.0\Bot.Instagram.Profile.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\botmegasena\Bot.Instagram.Profile\obj\Debug\net6.0\Bot.Instagram.Profile.csproj.CopyComplete
+C:\Users\rodri\source\repos\botmegasena\Bot.Instagram.Profile\obj\Debug\net6.0\Bot.Instagram.Profile.dll
+C:\Users\rodri\source\repos\botmegasena\Bot.Instagram.Profile\obj\Debug\net6.0\ref\Bot.Instagram.Profile.dll
+C:\Users\rodri\source\repos\botmegasena\Bot.Instagram.Profile\obj\Debug\net6.0\Bot.Instagram.Profile.pdb
+C:\Users\rodri\source\repos\botmegasena\Bot.Instagram.Profile\obj\Debug\net6.0\Bot.Instagram.Profile.genruntimeconfig.cache

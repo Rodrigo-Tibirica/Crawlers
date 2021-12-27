@@ -1,0 +1,15 @@
+C:\Users\rodri\source\repos\botmegasena\botmegasenna\bin\Debug\net6.0\botmegasenna.exe
+C:\Users\rodri\source\repos\botmegasena\botmegasenna\bin\Debug\net6.0\botmegasenna.deps.json
+C:\Users\rodri\source\repos\botmegasena\botmegasenna\bin\Debug\net6.0\botmegasenna.runtimeconfig.json
+C:\Users\rodri\source\repos\botmegasena\botmegasenna\bin\Debug\net6.0\botmegasenna.dll
+C:\Users\rodri\source\repos\botmegasena\botmegasenna\bin\Debug\net6.0\ref\botmegasenna.dll
+C:\Users\rodri\source\repos\botmegasena\botmegasenna\bin\Debug\net6.0\botmegasenna.pdb
+C:\Users\rodri\source\repos\botmegasena\botmegasenna\obj\Debug\net6.0\botmegasenna.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\botmegasena\botmegasenna\obj\Debug\net6.0\botmegasenna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\botmegasena\botmegasenna\obj\Debug\net6.0\botmegasenna.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\botmegasena\botmegasenna\obj\Debug\net6.0\botmegasenna.AssemblyInfo.cs
+C:\Users\rodri\source\repos\botmegasena\botmegasenna\obj\Debug\net6.0\botmegasenna.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\botmegasena\botmegasenna\obj\Debug\net6.0\botmegasenna.dll
+C:\Users\rodri\source\repos\botmegasena\botmegasenna\obj\Debug\net6.0\ref\botmegasenna.dll
+C:\Users\rodri\source\repos\botmegasena\botmegasenna\obj\Debug\net6.0\botmegasenna.pdb
+C:\Users\rodri\source\repos\botmegasena\botmegasenna\obj\Debug\net6.0\botmegasenna.genruntimeconfig.cache

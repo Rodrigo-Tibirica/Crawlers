@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot.MegaSena.Json", "Bot.MegaSena.Json\Bot.MegaSena.Json.csproj", "{52125987-F691-42A5-A015-B20C16F49FBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot.Instagram.Profile", "Bot.Instagram.Profile\Bot.Instagram.Profile.csproj", "{3E725829-331C-439A-B766-73BCA07D87BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52125987-F691-42A5-A015-B20C16F49FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52125987-F691-42A5-A015-B20C16F49FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52125987-F691-42A5-A015-B20C16F49FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52125987-F691-42A5-A015-B20C16F49FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E725829-331C-439A-B766-73BCA07D87BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E725829-331C-439A-B766-73BCA07D87BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E725829-331C-439A-B766-73BCA07D87BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E725829-331C-439A-B766-73BCA07D87BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0C672EC-E546-47D3-9CB7-8115231854D1}
+	EndGlobalSection
+EndGlobal

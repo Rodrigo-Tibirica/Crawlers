@@ -1,0 +1,17 @@
+C:\Users\rodri\source\repos\botmegasena\Bot.MegaSena.Json\bin\Debug\net6.0\Bot.MegaSena.Json.exe
+C:\Users\rodri\source\repos\botmegasena\Bot.MegaSena.Json\bin\Debug\net6.0\Bot.MegaSena.Json.deps.json
+C:\Users\rodri\source\repos\botmegasena\Bot.MegaSena.Json\bin\Debug\net6.0\Bot.MegaSena.Json.runtimeconfig.json
+C:\Users\rodri\source\repos\botmegasena\Bot.MegaSena.Json\bin\Debug\net6.0\Bot.MegaSena.Json.dll
+C:\Users\rodri\source\repos\botmegasena\Bot.MegaSena.Json\bin\Debug\net6.0\ref\Bot.MegaSena.Json.dll
+C:\Users\rodri\source\repos\botmegasena\Bot.MegaSena.Json\bin\Debug\net6.0\Bot.MegaSena.Json.pdb
+C:\Users\rodri\source\repos\botmegasena\Bot.MegaSena.Json\obj\Debug\net6.0\Bot.MegaSena.Json.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\botmegasena\Bot.MegaSena.Json\obj\Debug\net6.0\Bot.MegaSena.Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\botmegasena\Bot.MegaSena.Json\obj\Debug\net6.0\Bot.MegaSena.Json.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\botmegasena\Bot.MegaSena.Json\obj\Debug\net6.0\Bot.MegaSena.Json.AssemblyInfo.cs
+C:\Users\rodri\source\repos\botmegasena\Bot.MegaSena.Json\obj\Debug\net6.0\Bot.MegaSena.Json.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\botmegasena\Bot.MegaSena.Json\obj\Debug\net6.0\Bot.MegaSena.Json.dll
+C:\Users\rodri\source\repos\botmegasena\Bot.MegaSena.Json\obj\Debug\net6.0\ref\Bot.MegaSena.Json.dll
+C:\Users\rodri\source\repos\botmegasena\Bot.MegaSena.Json\obj\Debug\net6.0\Bot.MegaSena.Json.pdb
+C:\Users\rodri\source\repos\botmegasena\Bot.MegaSena.Json\obj\Debug\net6.0\Bot.MegaSena.Json.genruntimeconfig.cache
+C:\Users\rodri\source\repos\botmegasena\Bot.MegaSena.Json\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rodri\source\repos\botmegasena\Bot.MegaSena.Json\obj\Debug\net6.0\Bot.MegaSena.Json.csproj.CopyComplete

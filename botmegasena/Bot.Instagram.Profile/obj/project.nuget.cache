@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VXFvVy8QOVAvZ1oRF4ta5qzO4Bklo3iJ6paSkCvgQXaPzBknH1ziaqRl37xNlkKbtbv7Q+epJaiiwUznk6ibkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodri\\source\\repos\\botmegasena\\Bot.Instagram.Profile\\Bot.Instagram.Profile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\htmlagilitypack\\1.11.39\\htmlagilitypack.1.11.39.nupkg.sha512"
+  ],
+  "logs": []
+}
